@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ej9ayOnywgpBFMDOc2iradWGL8MR4rOdgIFGTixUFVk=",
+  "Source": "usersManagement",
+  "BasePath": "_content/usersManagement",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
